@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="arb_project_title"><![CDATA[Selçuklu Koleji]]></data>
+  <data name="arb_project_author_name"><![CDATA[Kemal YILDIZTAŞ 2023]]></data>
+  <data name="arb_project_author_url"><![CDATA[http://www.vimeo.com/kyildiztas]]></data>
+
+
+
+  <data name="arb_pano88_title"><![CDATA[01 - Bahçe]]></data>
+
+
+  <data name="arb_pano31677_title"><![CDATA[02 - Bahçe Oyun Alanı]]></data>
+
+
+  <data name="arb_pano89_title"><![CDATA[03 - Lobi]]></data>
+
+
+  <data name="arb_pano90_title"><![CDATA[04 - İdari Oda]]></data>
+
+
+  <data name="arb_pano91_title"><![CDATA[05 - Okul Öncesi Koridoru]]></data>
+
+
+  <data name="arb_pano92_title"><![CDATA[06 - Okul Öncesi Dersliği]]></data>
+
+
+  <data name="arb_pano93_title"><![CDATA[07 - Oyun Dersliği]]></data>
+
+
+  <data name="arb_pano31685_title"><![CDATA[08 - Oyun Alanı]]></data>
+
+
+  <data name="arb_pano94_title"><![CDATA[09 - Okul Öncesi WC]]></data>
+
+
+  <data name="arb_pano95_title"><![CDATA[10 - İlkokul Koridoru]]></data>
+
+
+  <data name="arb_pano96_title"><![CDATA[11 - Örnek Derslik 1]]></data>
+
+
+  <data name="arb_pano97_title"><![CDATA[12 - Örnek Derslik 2]]></data>
+
+
+  <data name="arb_pano98_title"><![CDATA[13 - Bilişim Teknolojileri Dersliği]]></data>
+
+
+  <data name="arb_pano99_title"><![CDATA[14 - Görsel Sanatlar Dersliği]]></data>
+
+
+  <data name="arb_pano100_title"><![CDATA[15 - Fen Teknolojileri Dersliği]]></data>
+
+
+  <data name="arb_pano31683_title"><![CDATA[16 - VR Sanal Gerçeklik Dersliği]]></data>
+
+
+  <data name="arb_pano101_title"><![CDATA[17 - Zeka Oyunları Dersliği]]></data>
+
+
+  <data name="arb_pano102_title"><![CDATA[18 - Konferans Salonu]]></data>
+
+
+  <data name="arb_pano31739_title"><![CDATA[19 - Spor Salonu]]></data>
+
+
+  <data name="arb_pano103_title"><![CDATA[20 - Yemekhane A]]></data>
+
+
+  <data name="arb_pano104_title"><![CDATA[21 - Yemekhane B]]></data>
+
+
+
+
+
+
+  <data name="arb_gyroButtonfirsttooltip"><![CDATA[Aktif]]></data>
+  <data name="arb_gyroButtonsecondtooltip"><![CDATA[Pasif]]></data>
+  <data name="arb_logowebsiteurl"><![CDATA[]]></data>
+
+
+  <data name="arb_vr_setup_hmd0"><![CDATA[HMD DEĞERİNİ SEÇİN]]></data>
+  <data name="arb_vr_setup_advanced"><![CDATA[İLERİ AYARLAR]]></data>
+  <data name="arb_vr_setup_title"><![CDATA[WEB SANAL GERÇEKLİK/VR AYARLARI]]></data>
+  <data name="arb_vr_setup_dvn1"><![CDATA[Cihaz:]]></data>
+  <data name="arb_vr_setup_siz1"><![CDATA[Ekran boyutu:]]></data>
+  <data name="arb_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="arb_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="arb_vr_setup_hmd3"><![CDATA[Özelleştir]]></data>
+  <data name="arb_vr_setup_cal"><![CDATA[Jiroskopu ayarla]]></data>
+  <data name="arb_vr_setup_sav"><![CDATA[KAYDET]]></data>
+  <data name="arb_vr_setup_rst"><![CDATA[SIFIRLA]]></data>
+  <data name="arb_vr_setup_simple"><![CDATA[BASİT]]></data>
+  <data name="arb_vr_setup_cls"><![CDATA[KAPAT]]></data>
+  <data name="arb_vr_setup_m31"><![CDATA[HMD AYARLARI]]></data>
+  <data name="arb_vr_setup_fov1"><![CDATA[GÖRÜŞ AÇISI:]]></data>
+  <data name="arb_vr_setup_dst1"><![CDATA[Distorsiyon:]]></data>
+  <data name="arb_vr_setup_d2tx"><![CDATA[Distorsiyon 2:]]></data>
+  <data name="arb_vr_setup_vig1"><![CDATA[Vinyet:]]></data>
+  <data name="arb_vr_setup_cac1"><![CDATA[Kromatik aberasyon:]]></data>
+  <data name="arb_vr_setup_olp1"><![CDATA[Üstüste binme:]]></data>
+  <data name="arb_vr_setup_m35"><![CDATA[GERİ DÖN]]></data>
+  <data name="arb_vr_setup_cb1"><![CDATA[JİROSKOP]]></data>
+  <data name="arb_vr_setup_cb2"><![CDATA[Jiroskop sapmasını düzeltmek için cihazı düz ve [br]stabil bir yüzeye koyun ve AYARLA&#39;ya basın[br].]]></data>
+  <data name="arb_vr_setup_cb3"><![CDATA[AYARLA]]></data>
+  <data name="arb_vr_setup_cb4"><![CDATA[SIFIRLA]]></data>
+  <data name="arb_vr_setup_cb5"><![CDATA[GERİ DÖN]]></data>
+  <data name="arb_vr_setup_cb6"><![CDATA[Ayarlanıyor...]]></data>
+  <data name="arb_vr_setup_cb7"><![CDATA[Ayarlama başarılı]]></data>
+  <data name="arb_vr_setup_cb8"><![CDATA[Ayarlama başarısız]]></data>
+  <data name="arb_vr_setup_unavailable"><![CDATA[Cihazınızda VR modu [br] kullanılamaz]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>

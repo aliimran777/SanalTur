@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+
+  <data name="en_project_title"><![CDATA[Selçuklu Koleji]]></data>
+
+
+
+  <data name="en_pano88_title"><![CDATA[01 - Bahçe]]></data>
+
+
+  <data name="en_pano89_title"><![CDATA[03 - Lobi]]></data>
+
+
+  <data name="en_pano90_title"><![CDATA[04 - İdari Oda]]></data>
+
+
+  <data name="en_pano91_title"><![CDATA[05 - Okul Öncesi Koridoru]]></data>
+
+
+  <data name="en_pano92_title"><![CDATA[06 - Okul Öncesi Dersliği]]></data>
+
+
+  <data name="en_pano93_title"><![CDATA[07 - Oyun Dersliği]]></data>
+
+
+  <data name="en_pano94_title"><![CDATA[09 - Okul Öncesi WC]]></data>
+
+
+  <data name="en_pano95_title"><![CDATA[10 - İlkokul Koridoru]]></data>
+
+
+  <data name="en_pano97_title"><![CDATA[12 - Örnek Derslik 2]]></data>
+
+
+  <data name="en_pano98_title"><![CDATA[13 - Bilişim Teknolojileri Dersliği]]></data>
+
+
+  <data name="en_pano99_title"><![CDATA[14 - Görsel Sanatlar Dersliği]]></data>
+
+
+  <data name="en_pano100_title"><![CDATA[15 - Fen Teknolojileri Dersliği]]></data>
+
+
+  <data name="en_pano101_title"><![CDATA[17 - Zeka Oyunları Dersliği]]></data>
+
+
+  <data name="en_pano102_title"><![CDATA[18 - Konferans Salonu]]></data>
+
+
+  <data name="en_pano103_title"><![CDATA[19 - Yemekhane A]]></data>
+
+
+  <data name="en_pano104_title"><![CDATA[20 - Yemekhane B]]></data>
+
+
+  <data name="en_pano96_title"><![CDATA[11 - Örnek Derslik 1]]></data>
+
+
+  <data name="en_pano31677_title"><![CDATA[02 - Bahçe Oyun Alanı]]></data>
+
+
+  <data name="en_pano31683_title"><![CDATA[16 - VR Sanal Gerçeklik Dersliği]]></data>
+
+
+  <data name="en_pano31685_title"><![CDATA[08 - Oyun Alanı]]></data>
+
+
+
+
+
+
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[Fotoğraf : Kemal Yıldıztaş]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://www.google.com/+kemalyildiztas]]></data>
+  <data name="en_contextmenuopenwebsitelabel2"><![CDATA[Telefon : 0541 347 60 46]]></data>
+  <data name="en_contextmenuwebsiteurl2"><![CDATA[]]></data>
+  <data name="en_contextmenuopenwebsitelabel3"><![CDATA[www.vimeo.com/kyildiztas]]></data>
+  <data name="en_contextmenuwebsiteurl3"><![CDATA[http://www.vimeo.com/kyildiztas]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Tam Ekran]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Tam Ekrandan Çık]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[VR modunu girin]]></data>
+  <data name="en_logowebsiteurl"><![CDATA[]]></data>
+  <data name="en_logotooltipText"><![CDATA[Web sitesini aç]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[HMD DEĞERİNİ SEÇİN]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[İLERİ AYARLAR]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB SANAL GERÇEKLİK/VR AYARLARI]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Cihaz:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Ekran boyutu:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Özelleştir]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Jiroskopu ayarla]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[KAYDET]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[SIFIRLA]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[BASİT]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[KAPAT]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD AYARLARI]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[GÖRÜŞ AÇISI:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distorsiyon:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distorsiyon 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vinyet:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Kromatik aberasyon:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Üstüste binme:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[GERİ DÖN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[JİROSKOP]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Jiroskop sapmasını düzeltmek için cihazı düz ve [br]stabil bir yüzeye koyun ve AYARLA&#39;ya basın[br].]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[AYARLA]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[SIFIRLA]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[GERİ DÖN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Ayarlanıyor...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Ayarlama başarılı]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Ayarlama başarısız]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[Cihazınızda VR modu [br] kullanılamaz]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
