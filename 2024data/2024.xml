@@ -1,119 +1,146 @@
-<krpano version="1.19" title="Sanal Tur Kurtarma">
+<krpano version="1.19" title="Kurtarilan Sanal Tur">
 
-    <include url="%SWFPATH%/2024_skin.xml" /> <view hlookat="0" vlookat="0" fovtype="MFOV" fov="90" fovmin="70" fovmax="140" limitview="auto" />
+    <include url="%SWFPATH%/2024_skin.xml" /> 
+    <view hlookat="0" vlookat="0" fovtype="MFOV" fov="90" fovmin="70" fovmax="140" limitview="auto" />
 
-    <scene name="scene_88" title="Bahce Yaz" onstart="" thumburl="2024data/pano_88/thumbnail.jpg" lat="" lng="" heading="">
-        <view hlookat="0" vlookat="0" fovtype="MFOV" fov="90" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <scene name="scene_88" title="Bahce Yaz" onstart="" thumburl="2024data/pano_88/thumbnail.jpg">
         <preview url="2024data/pano_88/preview.jpg" />
         <image>
-            <cube url="2024data/pano_88/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_88/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_31677" title="Oyun Alani" onstart="" thumburl="2024data/pano_31677/thumbnail.jpg" lat="" lng="" heading="">
-        <view hlookat="0" vlookat="0" fovtype="MFOV" fov="90" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <scene name="scene_31677" title="Oyun Alani" onstart="" thumburl="2024data/pano_31677/thumbnail.jpg">
         <preview url="2024data/pano_31677/preview.jpg" />
         <image>
-            <cube url="2024data/pano_31677/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_31677/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_89" title="Lobi" onstart="" thumburl="2024data/pano_89/thumbnail.jpg" lat="" lng="" heading="">
-        <view hlookat="0" vlookat="0" fovtype="MFOV" fov="90" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+    <scene name="scene_89" title="Lobi" onstart="" thumburl="2024data/pano_89/thumbnail.jpg">
         <preview url="2024data/pano_89/preview.jpg" />
         <image>
-            <cube url="2024data/pano_89/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_89/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_91" title="Okul Oncesi Koridor" onstart="" thumburl="2024data/pano_91/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_91" title="Okul Oncesi Koridor" onstart="" thumburl="2024data/pano_91/thumbnail.jpg">
         <preview url="2024data/pano_91/preview.jpg" />
         <image>
-            <cube url="2024data/pano_91/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_91/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_92" title="Okul Oncesi Derslik" onstart="" thumburl="2024data/pano_92/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_92" title="Okul Oncesi Derslik" onstart="" thumburl="2024data/pano_92/thumbnail.jpg">
         <preview url="2024data/pano_92/preview.jpg" />
         <image>
-            <cube url="2024data/pano_92/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_92/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_94" title="WC" onstart="" thumburl="2024data/pano_94/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_94" title="WC" onstart="" thumburl="2024data/pano_94/thumbnail.jpg">
         <preview url="2024data/pano_94/preview.jpg" />
         <image>
-            <cube url="2024data/pano_94/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_94/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_96" title="Ornek Derslik 1" onstart="" thumburl="2024data/pano_96/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_96" title="Ornek Derslik 1" onstart="" thumburl="2024data/pano_96/thumbnail.jpg">
         <preview url="2024data/pano_96/preview.jpg" />
         <image>
-            <cube url="2024data/pano_96/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_96/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_97" title="Ornek Derslik 2" onstart="" thumburl="2024data/pano_97/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_97" title="Ornek Derslik 2" onstart="" thumburl="2024data/pano_97/thumbnail.jpg">
         <preview url="2024data/pano_97/preview.jpg" />
         <image>
-            <cube url="2024data/pano_97/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_97/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_99" title="Gorsel Sanatlar" onstart="" thumburl="2024data/pano_99/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_99" title="Gorsel Sanatlar" onstart="" thumburl="2024data/pano_99/thumbnail.jpg">
         <preview url="2024data/pano_99/preview.jpg" />
         <image>
-            <cube url="2024data/pano_99/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_99/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_100" title="Fen Teknoloji" onstart="" thumburl="2024data/pano_100/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_100" title="Fen Teknoloji" onstart="" thumburl="2024data/pano_100/thumbnail.jpg">
         <preview url="2024data/pano_100/preview.jpg" />
         <image>
-            <cube url="2024data/pano_100/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_100/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_102" title="Konferans Salonu" onstart="" thumburl="2024data/pano_102/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_102" title="Konferans Salonu" onstart="" thumburl="2024data/pano_102/thumbnail.jpg">
         <preview url="2024data/pano_102/preview.jpg" />
         <image>
-            <cube url="2024data/pano_102/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_102/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_31683" title="VR Odasi" onstart="" thumburl="2024data/pano_31683/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_31683" title="VR Odasi" onstart="" thumburl="2024data/pano_31683/thumbnail.jpg">
         <preview url="2024data/pano_31683/preview.jpg" />
         <image>
-            <cube url="2024data/pano_31683/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_31683/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_103" title="Yemekhane 1" onstart="" thumburl="2024data/pano_103/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_103" title="Yemekhane 1" onstart="" thumburl="2024data/pano_103/thumbnail.jpg">
         <preview url="2024data/pano_103/preview.jpg" />
         <image>
-            <cube url="2024data/pano_103/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_103/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_104" title="Yemekhane 2" onstart="" thumburl="2024data/pano_104/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_104" title="Yemekhane 2" onstart="" thumburl="2024data/pano_104/thumbnail.jpg">
         <preview url="2024data/pano_104/preview.jpg" />
         <image>
-            <cube url="2024data/pano_104/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_104/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_31739" title="Spor Salonu" onstart="" thumburl="2024data/pano_31739/thumbnail.jpg" lat="" lng="" heading="">
+    <scene name="scene_31739" title="Spor Salonu" onstart="" thumburl="2024data/pano_31739/thumbnail.jpg">
         <preview url="2024data/pano_31739/preview.jpg" />
         <image>
-            <cube url="2024data/pano_31739/cf_%c/l%r/%0f/tile.jpg" />
+            <cube url="2024data/pano_31739/html5/%s.jpg" />
         </image>
     </scene>
 
-    <scene name="scene_90" title="Bolum 90" onstart="" thumburl="2024data/pano_90/thumbnail.jpg"><preview url="2024data/pano_90/preview.jpg" /><image><cube url="2024data/pano_90/cf_%c/l%r/%0f/tile.jpg" /></image></scene>
-    <scene name="scene_93" title="Bolum 93" onstart="" thumburl="2024data/pano_93/thumbnail.jpg"><preview url="2024data/pano_93/preview.jpg" /><image><cube url="2024data/pano_93/cf_%c/l%r/%0f/tile.jpg" /></image></scene>
-    <scene name="scene_95" title="Bolum 95" onstart="" thumburl="2024data/pano_95/thumbnail.jpg"><preview url="2024data/pano_95/preview.jpg" /><image><cube url="2024data/pano_95/cf_%c/l%r/%0f/tile.jpg" /></image></scene>
-    <scene name="scene_98" title="Bolum 98" onstart="" thumburl="2024data/pano_98/thumbnail.jpg"><preview url="2024data/pano_98/preview.jpg" /><image><cube url="2024data/pano_98/cf_%c/l%r/%0f/tile.jpg" /></image></scene>
-    <scene name="scene_101" title="Bolum 101" onstart="" thumburl="2024data/pano_101/thumbnail.jpg"><preview url="2024data/pano_101/preview.jpg" /><image><cube url="2024data/pano_101/cf_%c/l%r/%0f/tile.jpg" /></image></scene>
+    <scene name="scene_90" title="Bolum 90" onstart="" thumburl="2024data/pano_90/thumbnail.jpg">
+        <preview url="2024data/pano_90/preview.jpg" />
+        <image>
+            <cube url="2024data/pano_90/html5/%s.jpg" />
+        </image>
+    </scene>
+
+    <scene name="scene_93" title="Bolum 93" onstart="" thumburl="2024data/pano_93/thumbnail.jpg">
+        <preview url="2024data/pano_93/preview.jpg" />
+        <image>
+            <cube url="2024data/pano_93/html5/%s.jpg" />
+        </image>
+    </scene>
+
+    <scene name="scene_95" title="Bolum 95" onstart="" thumburl="2024data/pano_95/thumbnail.jpg">
+        <preview url="2024data/pano_95/preview.jpg" />
+        <image>
+            <cube url="2024data/pano_95/html5/%s.jpg" />
+        </image>
+    </scene>
+
+    <scene name="scene_98" title="Bolum 98" onstart="" thumburl="2024data/pano_98/thumbnail.jpg">
+        <preview url="2024data/pano_98/preview.jpg" />
+        <image>
+            <cube url="2024data/pano_98/html5/%s.jpg" />
+        </image>
+    </scene>
+
+    <scene name="scene_101" title="Bolum 101" onstart="" thumburl="2024data/pano_101/thumbnail.jpg">
+        <preview url="2024data/pano_101/preview.jpg" />
+        <image>
+            <cube url="2024data/pano_101/html5/%s.jpg" />
+        </image>
+    </scene>
 
 </krpano>
